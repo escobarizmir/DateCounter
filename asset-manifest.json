@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/DateCounter/static/css/main.e8cf397f.chunk.css",
+    "main.css": "/DateCounter/static/css/main.0bf0490c.chunk.css",
     "main.js": "/DateCounter/static/js/main.a7546be7.chunk.js",
     "main.js.map": "/DateCounter/static/js/main.a7546be7.chunk.js.map",
     "runtime-main.js": "/DateCounter/static/js/runtime-main.b76a2c2b.js",
@@ -8,13 +8,13 @@
     "static/js/2.a0a97d98.chunk.js": "/DateCounter/static/js/2.a0a97d98.chunk.js",
     "static/js/2.a0a97d98.chunk.js.map": "/DateCounter/static/js/2.a0a97d98.chunk.js.map",
     "index.html": "/DateCounter/index.html",
-    "static/css/main.e8cf397f.chunk.css.map": "/DateCounter/static/css/main.e8cf397f.chunk.css.map",
+    "static/css/main.0bf0490c.chunk.css.map": "/DateCounter/static/css/main.0bf0490c.chunk.css.map",
     "static/js/2.a0a97d98.chunk.js.LICENSE.txt": "/DateCounter/static/js/2.a0a97d98.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.b76a2c2b.js",
     "static/js/2.a0a97d98.chunk.js",
-    "static/css/main.e8cf397f.chunk.css",
+    "static/css/main.0bf0490c.chunk.css",
     "static/js/main.a7546be7.chunk.js"
   ]
 }
